@@ -1,13 +1,13 @@
 **Overview:**
 
 **Title:** 
-Bootcamp Spot
+Class Management App
 
 **Description:**
-My version of Bootcamp Spot. 
+My version of the app currently used for managing classes. 
 
 **Why it is valuable:** 
-My goal is to improve the user experience by making the application more intuitive and visually appealing. 
+My goal is to improve the user experience by making the application more intuitive and inline with the UCF brand. I belive that branding should be consistent across the board so users can immediately identify with it.
 
 **Due Date:** 
 December 17th, 2016
@@ -19,21 +19,23 @@ December 17th, 2016
 
 **11/20 - 11/26**
 Create Mock Ups
-Set up folder structure
-Create connections i.e. server, routes, database 
-Write tests
-Form validation i.e. bcrypt
-Start working on logic
+Create server, routes & database 
+Testing
+Logic
+Bcrypt
 
 **11/27 - 12/03**
-Logic Continued
+Secondary Testing
 
 **12/04 - 12/10**
-Logic conclusion
+Work out any bugs
 SEO
+Tertiary Testing
 
 **12/11 - 12/17**
-Front End
+Build out the front end
+Connect body to the engine
+Final Testing
 
 
 			
